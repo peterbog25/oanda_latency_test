@@ -15,5 +15,6 @@
     "url": "https://github.com/peterbog25/oanda_latency_test/issues"
   },
   "homepage": "https://github.com/peterbog25/oanda_latency_test#readme",
-  "description": ""
+  "description": "",
+  "type": "module"
 }

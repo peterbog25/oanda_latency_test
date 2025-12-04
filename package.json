@@ -16,5 +16,8 @@
   },
   "homepage": "https://github.com/peterbog25/oanda_latency_test#readme",
   "description": "",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "cacheable-lookup": "^7.0.0"
+  }
 }
